@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543714901523",
+    "project_id": "flash-chat-a970a",
+    "storage_bucket": "flash-chat-a970a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543714901523:android:cc13e7e76a589e90ea89e6",
+        "android_client_info": {
+          "package_name": "co.ayushSinghal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543714901523-hhgk793lhf77cvifsh0r8sp8km3eiend.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzVjMQXCrUuXQNPr0ah7_5LCWAG1Ge9aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543714901523-hhgk793lhf77cvifsh0r8sp8km3eiend.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
